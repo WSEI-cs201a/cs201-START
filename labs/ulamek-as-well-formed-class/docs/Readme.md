@@ -47,8 +47,6 @@ W standardowych bibliotekach .NET (C#) jednak nie ma typu realizującego koncepc
 
 Przy tworzeniu specjalistycznego oprogramowania może okazać się potrzebną realizacja typu `Rational`, np. do prezentacji liczb w formie ułamkowej, do wykonania obliczeń dokładnych na ułamkach.
 
-
-
 ## Założenia ogólne ##
 
 Założenia ogólne dotyczące implmenentacji typu `Ulamek`:
@@ -67,11 +65,9 @@ Założenia ogólne dotyczące implmenentacji typu `Ulamek`:
 
 7. **Wszystkie** publiczne składniki klasy są przetestowane (odpowiednie testy jednostkowe).
 
-9. Klasa oraz jej składniki publiczne są udokumentowane (dokumentacja XML w kodzie).
+8. Klasa oraz jej składniki publiczne są udokumentowane (dokumentacja XML w kodzie).
 
-10. Dokumentacja API w html.
-
-
+9. Dokumentacja API w html.
 
 ## Etapy realizacji ##
 
@@ -101,6 +97,5 @@ Założenia ogólne dotyczące implmenentacji typu `Ulamek`:
 
 * Krok ostatni. Zadania i wyzwania
     > na bazie zrealizowanego projektu rozwiążesz zadania o podobnym charakterze
-
 
 [Krok następny](step00.md)
