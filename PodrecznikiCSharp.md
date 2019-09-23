@@ -1,17 +1,18 @@
 
-## Podręczniki (o dużej wartości merytorycznej) ##
+## Podręczniki (o dużej wartości merytorycznej)
 
 1. Mark Michaelis. seria **Essential C#**
 
 	a. [Essential C# 6.0 5th Ed, Addison-Wesley 2015](https://www.amazon.com/Essential-6-0-Addison-Wesley-Microsoft-Technology/dp/0134141040)
+	* [C# 6.0. Kompletny przewodnik dla praktyków. Wydanie V. 2016. Helion](https://helion.pl/ksiazki/c-6-0-kompletny-przewodnik-dla-praktykow-wydanie-v-mark-michaelis-eric-lippert,ch6kpp.htm#section6_shift)
 
-	b. [C# 6.0. Kompletny przewodnik dla praktyków. Wydanie V. 2016. Helion](https://helion.pl/ksiazki/c-6-0-kompletny-przewodnik-dla-praktykow-wydanie-v-mark-michaelis-eric-lippert,ch6kpp.htm#section6_shift)
-
-	c. [Essential C# 7.0 6th Ed, Addison-Wesley 2018](https://www.amazon.com/Essential-7-0-Addison-Wesley-Microsoft-Technology/dp/1509303588)
+	b. [Essential C# 7.0 6th Ed, Addison-Wesley 2018](https://www.amazon.com/Essential-7-0-Addison-Wesley-Microsoft-Technology/dp/1509303588)
 	> wersja zaktualizowana do C# 7 oraz .Net Core, .Net Standard i środowisko programistyczne VisualCode
+	* [C# 7.0. Kompletny przewodnik dla praktyków. Wydanie VI](https://helion.pl/ksiazki/c-7-0-kompletny-przewodnik-dla-praktykow-wydanie-vi-mark-michaelis,c7kop6.htm#format/d)
+		> tłumaczenie, w przygotowaniu
 
 2. Joseph Albahari, Ben Albahari. seria **C# in a Nutshell**
-   
+
 	a. [C# 7.0 in a Nutshell: The Definitive Reference, O'Reilly Media 2017](https://www.amazon.com/C-7-0-Nutshell-Definitive-Reference/dp/1491987650/ref=pd_sim_14_2?_encoding=UTF8&pd_rd_i=1491987650&pd_rd_r=P5SPFKN8QTGT1MB8PS0E&pd_rd_w=YZCYm&pd_rd_wg=lT5uU&psc=1&refRID=P5SPFKN8QTGT1MB8PS0E)
     
 	* [C# 7.0 Pocket Reference: Instant Help for C# 7.0 Programmers, O'Reilly Media 2017](https://www.amazon.com/7-0-Pocket-Reference-Instant-Programmers/dp/1491988533/ref=pd_sim_14_1?_encoding=UTF8&pd_rd_i=1491988533&pd_rd_r=QMA6PN65DWQXJZ27YABZ&pd_rd_w=tOWrl&pd_rd_wg=RHC0M&psc=1&refRID=QMA6PN65DWQXJZ27YABZ)
